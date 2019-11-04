@@ -46,6 +46,25 @@ displayed if the 'eventbrite' field in the header is not set.
 INTRODUCTION
 {% endcomment %
 
+<p>
+  <a href="{{site.swc_site}}">Software Carpentry</a>
+  aims to help researchers get their work done
+  in less time and with less pain
+  by teaching them basic research computing skills.
+  This hands-on workshop will cover basic concepts and tools,
+  including program design, version control, data management,
+  and task automation.
+  Participants will be encouraged to help one another
+  and to apply what they have learned to their own research problems.
+</p>
+
+<p align="center">
+  <em>
+    For more information on what we teach and why,
+    please see our paper
+    "<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">Best Practices for Scientific Computing</a>".
+  </em>
+</p>
 {% include swc/intro.html %}
 
 {% comment %}
