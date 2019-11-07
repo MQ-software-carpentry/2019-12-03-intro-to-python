@@ -45,7 +45,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 {% comment %}
 INTRODUCTION
-{% endcomment %
+{% endcomment %}
 
 <p>
   <a href="{{site.swc_site}}">Software Carpentry</a>
