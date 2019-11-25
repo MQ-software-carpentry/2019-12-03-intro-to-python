@@ -11,9 +11,9 @@ humandate: "3-4 Dec 2019"      # human-readable dates for the workshop (e.g., "F
 humantime: "9:00 am - 4:30 pm" # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-12-03          # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-12-04            # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Richard Miller", "James Tocknell", "Nishen Naidoo", "Grant Sayer"] 
+instructor: ["Richard Miller", "James Tocknell", "Nishen Naidoo", "Rhiannon Rasins"] 
                                # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Fergus Harrison", "Rhiannon Rasins", "Lei Han"]
+helper: ["Grant Sayer", "Fergus Harrison", "Lei Han"]
                                # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["richard.miller@mq.edu.au", "odette.subijano@mq.edu.au"]   
                                # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
