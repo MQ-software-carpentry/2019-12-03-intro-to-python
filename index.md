@@ -226,10 +226,10 @@ SETUP
 
 <p>
 All the workshop materials are available in the follow in GitHub Repository:
-<ul>
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png">
   <strong><a href="https://github.com/MQ-software-carpentry/2019-12-03-intro-to-python-workshop">https://github.com/MQ-software-carpentry/2019-12-03-intro-to-python-workshop</a></strong>
-</ul>
+</p>
 
 </p>
 
